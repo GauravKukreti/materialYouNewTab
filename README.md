@@ -64,7 +64,7 @@ MYNT: Material You New Tab is a versatile browser extension that personalizes yo
 
 ### Download
 
-1. **Development Version** (v3.2.*)
+1. **Development Version** (v3.3.*)
 
     - **Clone the Repository**:
       Use the following command to clone the repository:
@@ -79,7 +79,7 @@ MYNT: Material You New Tab is a versatile browser extension that personalizes yo
 
     - You can also download the ZIP file by clicking on the Code button. On the repository page, look for a green button labeled **Code**. Click on the **Code** button, and in the dropdown menu, select **Download ZIP**.
 
-2. **Stable Release** (v3.2)
+2. **Stable Release** (v3.3)
 
 <p align="center">
     <a href="https://github.com/prem-k-r/MaterialYouNewTab/releases/latest"><img src="https://github.com/user-attachments/assets/51048d6d-0b35-4f62-8351-4a3ea52d2213" alt="Download from GitHub" height="48" /></a>
@@ -94,10 +94,7 @@ MYNT: Material You New Tab is a versatile browser extension that personalizes yo
 
 #### ![Chromium](https://img.icons8.com/?size=20&id=104996&format=png&color=000000) Chromium-Based Browsers
 
-1. **Install from Chrome Web Store**:
-
-   - [Chrome Web Store](https://chromewebstore.google.com/detail/mynt-material-you-new-tab/jjpokbgpiljgndebfoljdeihhkpcpfgl)
-   - [Microsoft Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/mynt-material-you-new-ta/lcgdmfjofmcblocogcabdpfidfbkblcd)
+1. **Install from [Chrome Web Store](https://chromewebstore.google.com/detail/mynt-material-you-new-tab/jjpokbgpiljgndebfoljdeihhkpcpfgl) or [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/mynt-material-you-new-ta/lcgdmfjofmcblocogcabdpfidfbkblcd)**:
 
    **Or** follow the manual steps below:
 
@@ -164,9 +161,7 @@ Below are screenshots of the process to guide you through each step visually.
 
 #### ![Firefox](https://img.icons8.com/color/20/000000/firefox--v1.png) Firefox
 
-1. **Install from Mozilla Extensions Store**:
-
-   - [Mozilla Add-ons link](https://addons.mozilla.org/en-US/firefox/addon/mynt/)
+1. **Install from [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/mynt/)**
 
    <img src="https://i.postimg.cc/bPW2fHX7/FireFox.png" alt="Screenshot" width="569">
 
