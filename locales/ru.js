@@ -1,5 +1,6 @@
 // Russian
 const ru = {
+    "newTabTitle": "Новая вкладка",
     // Menu Items
     "github": "GitHub",
     "feedback": "Отзывы",
