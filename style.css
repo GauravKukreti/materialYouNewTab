@@ -3625,7 +3625,7 @@ input:checked + .toggle:before {
 	margin-bottom: 14px;
 	background-color: var(--bg-color-blue);
 	border-radius: 13px;
-	padding: 9px 10px;
+	padding: 9px 10px 10px;
 	padding-inline-start: 6px;
 	position: relative;
 	transition: transform 0.3s var(--md-motion-ease) opacity 0.2s ease;
@@ -3639,7 +3639,7 @@ input:checked + .toggle:before {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	margin: 0 4px;
+	margin: 0 4px 0 5px;
 }
 
 .shortcutSettingsEntry:last-child {
@@ -3712,7 +3712,7 @@ input:checked + .toggle:before {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding: 27px 6px;
+	padding: 27px 7px;
 	cursor: grab;
 	color: var(--textColor);
 	opacity: 0.5;
@@ -3759,8 +3759,8 @@ input:checked + .toggle:before {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	width: 46px;
-	height: 46px;
+	width: 42px;
+	height: 42px;
 	background: rgba(255, 255, 255, 0.4);
 	border: none;
 	border-radius: 7px;
